@@ -1,4 +1,4 @@
-FROM ruby:2.3
+FROM ruby:2.6.7
 
 RUN mkdir -p /usr/src/app
 
